@@ -1,0 +1,29 @@
+table{
+    border: 2px dashed darkblue; 
+    padding: 0; 
+    width: 100%;
+    background-color: rgb(145, 199, 199);
+
+}
+.parrafo{
+    font-size: 12;
+}
+
+.tdEspecial{
+    width: 150; 
+}
+
+.imagen{
+
+    box-align: left;
+}
+
+h1,h2{
+    color: white;
+    background-color: darkblue;
+}
+
+h3{
+    color: darkblue;
+}
+
